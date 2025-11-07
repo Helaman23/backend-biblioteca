@@ -10,7 +10,7 @@ const PORT = process.env.PORT || 3000;
 const corsOptions = {
   origin: [
     'http://localhost:4200',
-    'https://biblioteca-backend-scmy.onrender.com/',
+    'https://backend-biblioteca-s1qy.onrender.com/',
     'https://biblioteca-frontend-scmy.onrender.com/'  
   ],
   credentials: true,
